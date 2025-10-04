@@ -59,17 +59,17 @@ A frontend clone of Gemini built using React, TypeScript, Tailwind CSS, Axios, a
    ```bash
    git clone https://github.com/Vishal-257/Gemini_Frontend_CloneT.git
    cd Gemini_Frontend_CloneT
-
+2. Dependencies
+   ```
    npm install
-# or
     yarn install
-
-    npm run dev
-# or
-    yarn dev
-
+3. Run
+   ```
+   npm run dev
+   yarn dev
+4. Test
+   ```
     npm run test
-# or
     yarn test
 
 
